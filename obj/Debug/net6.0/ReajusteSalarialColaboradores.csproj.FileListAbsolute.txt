@@ -1,0 +1,15 @@
+C:\Users\lucim\source\repos\ReajusteSalarialColaboradores\ReajusteSalarialColaboradores\bin\Debug\net6.0\ReajusteSalarialColaboradores.exe
+C:\Users\lucim\source\repos\ReajusteSalarialColaboradores\ReajusteSalarialColaboradores\bin\Debug\net6.0\ReajusteSalarialColaboradores.deps.json
+C:\Users\lucim\source\repos\ReajusteSalarialColaboradores\ReajusteSalarialColaboradores\bin\Debug\net6.0\ReajusteSalarialColaboradores.runtimeconfig.json
+C:\Users\lucim\source\repos\ReajusteSalarialColaboradores\ReajusteSalarialColaboradores\bin\Debug\net6.0\ReajusteSalarialColaboradores.dll
+C:\Users\lucim\source\repos\ReajusteSalarialColaboradores\ReajusteSalarialColaboradores\bin\Debug\net6.0\ReajusteSalarialColaboradores.pdb
+C:\Users\lucim\source\repos\ReajusteSalarialColaboradores\ReajusteSalarialColaboradores\obj\Debug\net6.0\ReajusteSalarialColaboradores.csproj.AssemblyReference.cache
+C:\Users\lucim\source\repos\ReajusteSalarialColaboradores\ReajusteSalarialColaboradores\obj\Debug\net6.0\ReajusteSalarialColaboradores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucim\source\repos\ReajusteSalarialColaboradores\ReajusteSalarialColaboradores\obj\Debug\net6.0\ReajusteSalarialColaboradores.AssemblyInfoInputs.cache
+C:\Users\lucim\source\repos\ReajusteSalarialColaboradores\ReajusteSalarialColaboradores\obj\Debug\net6.0\ReajusteSalarialColaboradores.AssemblyInfo.cs
+C:\Users\lucim\source\repos\ReajusteSalarialColaboradores\ReajusteSalarialColaboradores\obj\Debug\net6.0\ReajusteSalarialColaboradores.csproj.CoreCompileInputs.cache
+C:\Users\lucim\source\repos\ReajusteSalarialColaboradores\ReajusteSalarialColaboradores\obj\Debug\net6.0\ReajusteSalarialColaboradores.dll
+C:\Users\lucim\source\repos\ReajusteSalarialColaboradores\ReajusteSalarialColaboradores\obj\Debug\net6.0\refint\ReajusteSalarialColaboradores.dll
+C:\Users\lucim\source\repos\ReajusteSalarialColaboradores\ReajusteSalarialColaboradores\obj\Debug\net6.0\ReajusteSalarialColaboradores.pdb
+C:\Users\lucim\source\repos\ReajusteSalarialColaboradores\ReajusteSalarialColaboradores\obj\Debug\net6.0\ReajusteSalarialColaboradores.genruntimeconfig.cache
+C:\Users\lucim\source\repos\ReajusteSalarialColaboradores\ReajusteSalarialColaboradores\obj\Debug\net6.0\ref\ReajusteSalarialColaboradores.dll

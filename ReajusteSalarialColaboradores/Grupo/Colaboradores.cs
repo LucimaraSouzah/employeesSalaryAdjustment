@@ -48,7 +48,7 @@
                 {
                     salario = salario + (salario * 0.10);
                     Console.WriteLine("O salário com o reajuste de 10% será: " + salario);
-                } else if (elegivelReajuste == true && value < 7000)
+                } else if (elegivelReajuste == true && value <= 7000)
                 {
                     Console.WriteLine("Qual será a % do reajuste salarial?");
                     double porcentagemReajuste = Convert.ToDouble(Console.ReadLine());
